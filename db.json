@@ -1,0 +1,40 @@
+{
+    "post":[
+        {
+            "id": 1,
+            "title": "Reliable Item",
+            "description": "This is a detailed description of the first item. It includes information about its features, benefits, and potential uses. This item is popular among customers for its reliability and affordability, making it a top choice in its category. Users highly recommend it for daily use.",
+            "likeCount": 120
+        },
+        {
+            "id": 2,
+            "title": "Innovative Design",
+            "description": "The second item in our list stands out for its innovative design and advanced technology. It offers exceptional performance and durability, ensuring long-term satisfaction. Many users appreciate its user-friendly interface and sleek appearance, which enhances its appeal. This product is ideal for tech enthusiasts.",
+            "likeCount": 220
+        },
+        {
+            "id": 3,
+            "title": "Eco-Friendly Product",
+            "description": "Our third item is known for its eco-friendly materials and sustainable production process. It combines functionality with environmental consciousness, making it a favorite among eco-conscious consumers. This product not only performs well but also contributes to reducing the environmental footprint. It’s a win-win for users and the planet.",
+            "likeCount": 300
+        },
+        {
+            "id": 4,
+            "title": "Versatile Tool",
+            "description": "This fourth item is a versatile tool that can be used in various applications. Its robust construction and precision engineering ensure high efficiency and reliability. Users praise its adaptability and ease of use, making it a valuable addition to any toolkit. This product is perfect for professionals and hobbyists alike.",
+            "likeCount": 175
+        },
+        {
+            "id": 5,
+            "title": "Ergonomic Comfort",
+            "description": "The fifth item in our selection is celebrated for its exceptional comfort and ergonomic design. It is crafted to provide maximum support and reduce strain, making it ideal for long-term use. Customers appreciate its stylish look and high-quality materials, which enhance its overall value. This item is a must-have for comfort seekers.",
+            "likeCount": 240
+        },
+        {
+            "id": 6,
+            "title": "Speed and Efficiency",
+            "description": "Rounding out our list, the sixth item is known for its impressive speed and efficiency. It is designed to deliver fast results without compromising on quality. Users are impressed by its performance and reliability, which make it a preferred choice for time-sensitive tasks. This product is perfect for those who need quick and dependable results.",
+            "likeCount": 190
+        }
+    ]
+}
