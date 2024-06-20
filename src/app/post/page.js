@@ -1,4 +1,5 @@
 import Image from 'next/image';
+import Link from 'next/link';
 import React from 'react';
 
 const Posts = async () => {
@@ -28,7 +29,11 @@ const Posts = async () => {
                                 <p>{post.description}</p>
                                 <p>{post.likeCount}</p>
                                 <div className="card-actions">
-                                    <button className="btn btn-primary">See more</button>
+                                    <Link href={`/post/${post.id}`}>
+
+                                        <button className="btn btn-primary">See more</button>
+
+                                    </Link>
                                 </div>
                             </div>
                         </div>
